@@ -6,10 +6,12 @@
 I'm a 19 yo fullstack developer, located in Cologne, Germany.
 
 <h2>About me</h2>
-- Male, 19 yo
-- 📍Cologne, Germany
-- Fullstack web developer
-- Minecraft Mod + Plugin developer
+<ul>
+<li>Male, 19 yo</li>
+<li>📍Cologne, Germany</li>
+<li>Fullstack web developer</li>
+<li>Minecraft Mod + Plugin developer</li>
+</ul>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TheReal-Flo&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="TheReal-Flo's GitHub Stats" />
