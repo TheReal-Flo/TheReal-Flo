@@ -3,14 +3,14 @@
 </p>
 <hr />
 <h1 align="center">Hey, I'm Florian, nice to see you here!</h1>
-I'm a 19 yo fullstack developer, located in Cologne, Germany.
+I'm a 20 yo fullstack developer, located in Cologne, Germany.
 
 <h2 align="center">About me</h2>
 <ul>
-<li>Male, 19 yo</li>
+<li>Male, 20 yo</li>
 <li>Cologne, Germany</li>
 <li>Fullstack web developer</li>
-<li>Minecraft Mod + Plugin developer</li>
+<li>Minecraft Mod + Plugin developer (sometimes)</li>
 </ul>
 
 <h2 align="center">My tech stacks</h2>
@@ -41,8 +41,4 @@ I'm a 19 yo fullstack developer, located in Cologne, Germany.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal-Flo&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="TheReal-Flo's GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheReal-Flo&theme=cobalt&hide_border=true" alt="TheReal-Flo's GitHub Stats" />
 </p>
